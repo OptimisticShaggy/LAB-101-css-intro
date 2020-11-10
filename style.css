@@ -42,3 +42,10 @@ img {
   margin: 5px;
 }
 
+a {
+  color: pruple;
+}
+
+a:hover {
+  color: orange;
+}
